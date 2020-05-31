@@ -150,7 +150,7 @@ padding:0px;
 
     #header h4 {
         line-height: 30px;
-        font-size: 12px;
+        font-size: 20px;
         padding-bottom: 40px;
         text-transform: uppercase;
     }
@@ -283,6 +283,14 @@ padding:0px;
         padding-bottom: 100px;
     }
 /* =============================================================
+  EXPERIENCE SECTION STYLES
+ ============================================================ */	
+#experience {
+    background-color: rgba(237, 237, 237, 1);
+}
+
+
+/* =============================================================
   TEAM SECTION STYLES
  ============================================================ */
 #team {
@@ -319,6 +327,8 @@ padding:0px;
         padding-top: 100px;
         padding-bottom: 100px;
     }
+	
+	
 /* =============================================================
   FOOTER SECTION STYLES
  ============================================================ */
