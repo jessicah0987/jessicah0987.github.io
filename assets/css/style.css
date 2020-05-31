@@ -289,6 +289,9 @@ padding:0px;
     background-color: rgba(237, 237, 237, 1);
 }
 
+	#experience .job-title{
+		color: #5c45ff;
+	}
 
 /* =============================================================
   TEAM SECTION STYLES
