@@ -172,6 +172,10 @@ padding:0px;
         padding-bottom: 5px;
         padding-top: 15px;
     }
+	
+	#services .job-title{
+		color: #5c45ff;
+	}
 /* =============================================================
   CLIENTS SECTION STYLES
  ============================================================ */
