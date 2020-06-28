@@ -164,24 +164,18 @@ padding:0px;
     }
 
 /*================================
-    SERVICES STYLES
+    SKILLS STYLES
 ==================================*/
-#services {
+#skills {
     background-color: rgba(237, 237, 237, 1);
 }
 
-    #services i {
-        font-size: 80px;
-        padding: 30px;
-        color: #B7ADFF;
-    }
-
-    #services h4 {
+    #skills h4 {
         padding-bottom: 5px;
         padding-top: 15px;
     }
 	
-	#services .job-title{
+	#skills .skill-type{
 		color: #5c45ff;
 	}
 /* =============================================================
