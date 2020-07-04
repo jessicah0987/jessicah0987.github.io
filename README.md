@@ -1,3 +1,3 @@
 # jessicah0987.github.io
 
-My first attempt at a portfolio website
+My portfolio website using HTML, CSS, Bootstrap and jQuery.
